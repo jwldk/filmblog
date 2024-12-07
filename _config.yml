@@ -1,0 +1,26 @@
+title: winther film blog
+author:
+  name: Jeppe Larsen
+  email: film@sysctl.dk
+description: >- # this means to ignore newlines until "baseurl:"
+  Personlige betragtninger og anmeldelser af film jeg har lyst til at skrive om
+baseurl: ""
+url: "https://filmblog.sysctl.dk"
+permalink: /:categories/:slug.html
+favicon: logo.png
+
+# Build settings
+plugins:
+  - jekyll-feed
+  - jekyll-remote-theme
+
+remote_theme: riggraz/no-style-please
+theme: no-style-please
+theme_config:
+  show_description: false
+  back_home_text: "forside"
+
+exclude:
+  - template.md
+  - deploy.sh
+  - README.md

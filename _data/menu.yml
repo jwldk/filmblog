@@ -1,0 +1,18 @@
+entries:
+  - title: meta
+    entries:
+      - title: rss feed
+        url: feed.xml
+      - title: email
+        url: mailto:film@sysctl.dk
+      - title: min letterboxd profil
+        url: https://letterboxd.com/jwldk/
+      - title: min anden blog om science fiction
+        url: https://shortsfreviews.com
+
+  - title: posts
+    post_list:
+      limit: 100
+      show_more: true
+      show_more_text: se arkiv...
+      show_more_url: archive.html

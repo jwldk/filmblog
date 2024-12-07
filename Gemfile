@@ -1,0 +1,5 @@
+source "https://rubygems.org"
+gem "jekyll", "~> 4.3.3"
+gem "no-style-please"
+gem "jekyll-feed", "~> 0.12"
+gem "jekyll-remote-theme", "~> 0.4.3"
