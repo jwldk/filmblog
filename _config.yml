@@ -13,6 +13,7 @@ favicon: logo.png
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
+  - jekyll-sitemap
 
 remote_theme: riggraz/no-style-please
 theme: no-style-please
