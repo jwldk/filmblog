@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "となりのトトロ (Min nabo Totoro) (2024)"
+title: "となりのトトロ (Min nabo Totoro) (1988)"
 category: anmeldelser
 ---
 Denne Miyazaki-klassiker har på kort tid fået en særlig betydning.
