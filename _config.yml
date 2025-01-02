@@ -20,6 +20,7 @@ theme: no-style-please
 theme_config:
   show_description: false
   back_home_text: "forside"
+  lowercase_titles: true
 
 exclude:
   - template.md
